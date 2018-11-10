@@ -1,2 +1,6 @@
-print(121aaaa3)
-# 123
+def x(a):
+    return a
+
+if __name__ == '__main__':
+    a = x(15)
+    print(a)
