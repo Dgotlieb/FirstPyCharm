@@ -1,5 +1,5 @@
 def x(c):
-    return a
+    return d
 
 if __name__ == '__main__':
     a = x(15)
