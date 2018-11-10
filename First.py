@@ -1,4 +1,4 @@
-def x(a):
+def x(c):
     return a
 
 if __name__ == '__main__':
