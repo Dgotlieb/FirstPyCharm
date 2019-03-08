@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="980a6859-318b-48e5-a1ab-1c3d0122f1cf" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/aaa.txt" beforeDir="false" afterPath="$PROJECT_DIR$/aaa.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/venv/" />
@@ -18,7 +19,7 @@
         <entry file="file://$PROJECT_DIR$/aaa.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="10" selection-start-column="10" selection-end-column="10" />
+              <caret column="14" lean-forward="true" selection-start-column="14" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -171,7 +172,7 @@
     <entry file="file://$PROJECT_DIR$/aaa.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="10" selection-start-column="10" selection-end-column="10" />
+          <caret column="14" lean-forward="true" selection-start-column="14" selection-end-column="14" />
         </state>
       </provider>
     </entry>
