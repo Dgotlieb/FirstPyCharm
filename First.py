@@ -1,2 +1,2 @@
 print(44)
-sgjgh
+print(123)
